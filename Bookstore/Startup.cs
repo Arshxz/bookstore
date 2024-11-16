@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;    // add this
 using Bookstore.Models;
-
+//
 namespace Bookstore
 {
     public class Startup
